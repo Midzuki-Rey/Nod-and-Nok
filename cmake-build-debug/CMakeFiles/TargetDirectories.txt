@@ -1,0 +1,3 @@
+D:/profiles/пользователь/CLionProjects/Nok/cmake-build-debug/CMakeFiles/Nok.dir
+D:/profiles/пользователь/CLionProjects/Nok/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/profiles/пользователь/CLionProjects/Nok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
